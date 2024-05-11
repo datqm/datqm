@@ -1,0 +1,3 @@
+org/kurento/module/ChangebackgroundModuleInfo.class
+org/kurento/module/changebackground/ChangeBackground.class
+org/kurento/module/changebackground/ChangeBackground$Builder.class

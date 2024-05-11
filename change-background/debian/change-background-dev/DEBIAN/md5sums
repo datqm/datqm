@@ -1,0 +1,10 @@
+caf9f0ee25b08e4139eb852a50fc60f5  usr/include/kurento/modules/changebackground/ChangeBackground.hpp
+e78181cf76e88d0d7a95d53fe8c16265  usr/include/kurento/modules/changebackground/ChangeBackgroundImpl.hpp
+75fb4d711e6222e1b8aa4cc1cd87b5e4  usr/include/kurento/modules/changebackground/ChangeBackgroundImplFactory.hpp
+47ec1719df35ac9a70fc745bd9db57f6  usr/include/kurento/modules/changebackground/ChangeBackgroundOpenCVImpl.hpp
+51d112256a32aec54f26b88cd3fce71d  usr/lib/x86_64-linux-gnu/libkmschangebackgroundinterface.a
+61b63eb13db9cc0d3e9c3e9d0a449a63  usr/lib/x86_64-linux-gnu/pkgconfig/kmschangebackground.pc
+c54a2457136a51d47c2206d93fb086fb  usr/share/cmake/Kurento/FindKMSCHANGEBACKGROUND.cmake
+81edb06d2883faa57bc8e7038341534c  usr/share/doc/change-background-dev/changelog.gz
+5f58f970f89b27e6639fb960a062a6e7  usr/share/doc/change-background-dev/copyright
+c8ec54a28e65b676e673a8d43c50f6c0  usr/share/kurento/modules/changebackground.kmd.json

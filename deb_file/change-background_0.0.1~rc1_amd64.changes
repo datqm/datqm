@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 05 May 2024 10:51:58 +0000
+Source: change-background
+Binary: change-background change-background-dev
+Architecture: amd64
+Version: 0.0.1~rc1
+Distribution: testing
+Urgency: medium
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Changed-By: Maintainer Name <maintainer.name@example.com>
+Description:
+ change-background - <Up to 60 chars single line summary>
+ change-background-dev - <Up to 60 chars single line summary> (development files)
+Changes:
+ change-background (0.0.1~rc1) testing; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1:
+ 9d55e764d8769cac8e45cbad33d16080bdb92a92 1112468 change-background-dbgsym_0.0.1~rc1_amd64.ddeb
+ 1a9aa9c95d718a68550211e1995b41c353e54ced 13680 change-background-dev_0.0.1~rc1_amd64.deb
+ 258cdab11769dc323546cbc01d55a5804a9f4056 28087 change-background_0.0.1~rc1_amd64.buildinfo
+ e677c82a3323fbe0b26031aa4594b435c5a58940 37864 change-background_0.0.1~rc1_amd64.deb
+Checksums-Sha256:
+ 907ed0979114ef475ac6fe85e7c9bfda5fcc7578e1b18a8ca1fe0fafc75c6d19 1112468 change-background-dbgsym_0.0.1~rc1_amd64.ddeb
+ c789fc4630fcfd4c57c108cfde96e985a1dd30b898e367f26d7d14ae3804f933 13680 change-background-dev_0.0.1~rc1_amd64.deb
+ daaaad58d70239cbdc09f6ce2ffb2062a9260e61fc911fc69a7c3f8256b9ebd8 28087 change-background_0.0.1~rc1_amd64.buildinfo
+ 20cd4b763313880786985ebda1ff6ab3283fc78efb3d1a3be828852062fbebcb 37864 change-background_0.0.1~rc1_amd64.deb
+Files:
+ 5fa5d37ede396253dae7ca844d2f2809 1112468 debug optional change-background-dbgsym_0.0.1~rc1_amd64.ddeb
+ 1ab28fa51bbc97c5de376172565ff32a 13680 libdevel optional change-background-dev_0.0.1~rc1_amd64.deb
+ 24e172ba1820cd0fc26fc9d904b9faa9 28087 - optional change-background_0.0.1~rc1_amd64.buildinfo
+ 1a88484f0edf06852229f0a56e23dd8e 37864 libs optional change-background_0.0.1~rc1_amd64.deb

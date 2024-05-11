@@ -1,0 +1,39 @@
+Source: change-background
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Priority: optional
+Build-Depends:
+ cmake,
+ debhelper-compat ( = 9),
+ kurento-cmake-utils,
+ kurento-module-core-dev,
+ kurento-module-elements-dev,
+ kurento-module-filters-dev,
+ libgstreamer1.0-dev,
+ libopencv-dev,
+ pkg-config,
+Standards-Version: 4.5.1
+Homepage: https://www.example.com/
+#Vcs-Browser: https://git.example.com/change-background
+#Vcs-Git: https://git.example.com/change-background.git
+Rules-Requires-Root: no
+
+Package: change-background
+Architecture: any
+Section: libs
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: <Up to 60 chars single line summary>
+ <Long description over several lines, indented with space>.
+
+Package: change-background-dev
+Architecture: any
+Section: libdevel
+Depends:
+ ${misc:Depends},
+ change-background (= ${binary:Version}),
+ kurento-module-core-dev,
+ kurento-module-elements-dev,
+ kurento-module-filters-dev,
+Description: <Up to 60 chars single line summary> (development files)
+ <Long description over several lines, indented with space>.

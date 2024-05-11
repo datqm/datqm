@@ -1,0 +1,9 @@
+debian/tmp/usr/include/kurento/modules/changebackground/ChangeBackground.hpp
+debian/tmp/usr/include/kurento/modules/changebackground/ChangeBackgroundImpl.hpp
+debian/tmp/usr/include/kurento/modules/changebackground/ChangeBackgroundImplFactory.hpp
+debian/tmp/usr/include/kurento/modules/changebackground/ChangeBackgroundOpenCVImpl.hpp
+debian/tmp/usr/lib/x86_64-linux-gnu/libkmschangebackgroundinterface.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libkmschangebackgroundimpl.so
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/kmschangebackground.pc
+debian/tmp/usr/share/cmake/Kurento/FindKMSCHANGEBACKGROUND.cmake
+debian/tmp/usr/share/kurento/modules/changebackground.kmd.json

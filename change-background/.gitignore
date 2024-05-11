@@ -1,0 +1,19 @@
+### Project ignores ###
+
+# Build directories
+build/
+build-*/
+
+# Debian packaging (debhelper)
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/change-background*.debhelper.log
+debian/change-background*.substvars
+debian/change-background/
+debian/tmp/
+kurento-*_*_amd64.buildinfo
+kurento-*_*_amd64.changes
+kurento-*_*.dsc
+kurento-*_*.tar.xz
+obj-x86_64-linux-gnu/

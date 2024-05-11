@@ -1,0 +1,33 @@
+{
+  "remoteClasses": [
+    {
+      "name": "ChangeBackground",
+      "extends": "OpenCVFilter",
+      "doc": "ChangeBackground interface. Documentation about the module.",
+      "constructor": {
+        "doc": "Create an element.",
+        "params": [
+          {
+            "name": "mediaPipeline",
+            "doc": "the parent :rom:cls:`MediaPipeline`.",
+            "type": "MediaPipeline",
+            "final": true
+          }
+        ]
+      },
+      "methods": [
+        {
+          "name": "setImagePath",
+          "doc": "Set background image path.",
+          "params": [
+            {
+              "name": "ImagePath",
+              "doc": "Value of background image path.",
+              "type": "String"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

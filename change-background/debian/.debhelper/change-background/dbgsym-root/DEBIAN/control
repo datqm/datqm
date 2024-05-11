@@ -1,0 +1,13 @@
+Package: change-background-dbgsym
+Package-Type: ddeb
+Source: change-background
+Version: 0.0.1~rc1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Installed-Size: 1176
+Depends: change-background (= 0.0.1~rc1)
+Section: debug
+Priority: optional
+Description: debug symbols for change-background
+Build-Ids: b579a06e74dde37fee9d7f345e78c84b39a5515b f515adfa0c6b28b606d169ab037af71624c332fb

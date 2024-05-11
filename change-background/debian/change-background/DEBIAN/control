@@ -1,0 +1,11 @@
+Package: change-background
+Version: 0.0.1~rc1
+Architecture: amd64
+Maintainer: Maintainer Name <maintainer.name@example.com>
+Installed-Size: 233
+Depends: kurento-module-core (>= 7.0.0), kurento-module-filters (>= 7.0.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libgstreamer1.0-0 (>= 1.0.0), libjsoncpp1 (>= 1.7.4), libopencv-core4.2 (>= 4.2.0+dfsg), libopencv-imgcodecs4.2 (>= 4.2.0+dfsg), libopencv-imgproc4.2 (>= 4.2.0+dfsg), libopencv-videoio4.2 (>= 4.2.0+dfsg), libstdc++6 (>= 5.2)
+Section: libs
+Priority: optional
+Homepage: https://www.example.com/
+Description: <Up to 60 chars single line summary>
+ <Long description over several lines, indented with space>.

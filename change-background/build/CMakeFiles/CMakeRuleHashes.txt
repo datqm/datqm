@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+9dc0677d01c640f327add41b05d75a98 src/server/CMakeFiles/java
+1e62748cd68b2c2b6d5b01cab8da84f3 src/server/CMakeFiles/java_install
+a666e61b39a50bbad497387d0ea1d323 src/server/changebackground.kmd.json
+cc7c81946a8c928ea3c97b01433f1ba0 src/server/cpp_interface.generated
+9aadb58dd1f4bffeebc8c37cab73919e src/server/cpp_interface_internal.generated
+eacac0852fa8af7307c2921a3f458546 src/server/cpp_module.generated
+afd6e36d49f2c0ca33d6ee2960c9dd92 src/server/cpp_server_internal.generated

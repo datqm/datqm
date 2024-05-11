@@ -1,0 +1,12 @@
+/usr/local/lib/libkmschangebackgroundinterface.a
+/usr/local/include/kurento/modules/changebackground/ChangeBackground.hpp
+/usr/local/lib/pkgconfig/kmschangebackground.pc
+/usr/local/lib/libkmschangebackgroundimpl.so.0.0.1~0.ge1a25aa
+/usr/local/lib/libkmschangebackgroundimpl.so.0
+/usr/local/lib/libkmschangebackgroundimpl.so
+/usr/local/include/kurento/modules/changebackground/ChangeBackgroundImpl.hpp
+/usr/local/include/kurento/modules/changebackground/ChangeBackgroundOpenCVImpl.hpp
+/usr/local/include/kurento/modules/changebackground/ChangeBackgroundImplFactory.hpp
+/usr/local/lib/kurento/modules/libkmschangebackgroundmodule.so
+/usr/local/share/cmake/Kurento/FindKMSCHANGEBACKGROUND.cmake
+/usr/local/share/kurento/modules/changebackground.kmd.json

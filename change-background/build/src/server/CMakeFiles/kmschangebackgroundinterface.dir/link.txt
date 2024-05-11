@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmschangebackgroundinterface.a  CMakeFiles/kmschangebackgroundinterface.dir/interface/generated-cpp/ChangeBackgroundInternal.cpp.o CMakeFiles/kmschangebackgroundinterface.dir/interface/generated-cpp/ChangeBackground.cpp.o
+/usr/bin/ranlib libkmschangebackgroundinterface.a
